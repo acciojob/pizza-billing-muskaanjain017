@@ -25,7 +25,7 @@ public class Pizza {
         isExtraTopping = false;
         isTakeAway = false;
         isBillGenerated = false;
-        this.bill = " ";
+        this.bill = "";
         this.bill+= "Base Price Of The Pizza: "+this.price+"\n";
     }
 
